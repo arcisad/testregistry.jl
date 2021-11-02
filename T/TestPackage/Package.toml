@@ -1,0 +1,4 @@
+name = "TestPackage"
+uuid = "908014a3-c727-4546-89c1-0575e979c30d"
+authors = ["Amir Rastar <amir.rastar@gmail.com>"]
+repo = "https://github.com/arcisad/testpackage.jl.git"

@@ -1,0 +1,7 @@
+name = "TestRegistry"
+uuid = "94c73b2a-3b92-11ec-1b7e-71f9dc4123c2"
+repo = "https://github.com/arcisad/testregistry.jl.git"
+description = "This is only a test."
+
+[packages]
+908014a3-c727-4546-89c1-0575e979c30d = { name = "TestPackage", path = "T/TestPackage" }
